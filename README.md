@@ -1,13 +1,26 @@
-In this repository, I learned and practiced my deep learning course on the youtube.
-This repo contains different types of neural networks algorithm like
-1. Single Layer Perception.
-2. Multi Layer Perceptron (ANN).
-3. Convolutional Neural Network.
+<h1>Deep Learning Practice Repository</h1>
 
-Different methods to improve the models performance:
-1. BackPropagation
-2. Loss Function
-3. Activation Function
-4. Regularization Technique
-5. Optimizers
-6. Batch Normalization
+  <p>
+    This repository contains my practice work with various deep learning algorithms and techniques for improving model performance.
+    It features a variety of neural network architectures and essential techniques for enhancing model performance.
+  </p>
+
+  <h2>Implemented Neural Network Architectures</h2>
+  <ul>
+    <li>Single Layer Perceptron</li>
+    <li>Multi-Layer Perceptron (Artificial Neural Network, ANN)</li>
+    <li>Convolutional Neural Network (CNN)</li>
+  </ul>
+
+  <h2>Model Improvement Techniques</h2>
+  <p>This repository demonstrates several essential methods to optimize and enhance neural network performance, including:</p>
+  <ul>
+    <li>Backpropagation</li>
+    <li>Loss Functions</li>
+    <li>Activation Functions</li>
+    <li>Regularization Techniques</li>
+    <li>Optimizers</li>
+    <li>Batch Normalization</li>
+    <li>Weight Initialization</li>
+    <li>Dropout Techniques</li>
+  </ul>
